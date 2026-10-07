@@ -1,6 +1,6 @@
-### 王仁仁 · 前端架构 / AI Agent 工程
+### Renxqoo · 前端架构 / AI Agent 工程
 
-9 年前端，4 年跨境支付 SaaS 前端负责人。既能在编译期改造构建链路（Babel AST / 自定义 JSX Runtime / Vite 虚拟模块），也能把 AI Agent 从编排内核做到流式 UI 闭环。
+既能在编译期改造构建链路（Babel AST / 自定义 JSX Runtime / Vite 虚拟模块），也能把 AI Agent 从编排内核做到流式 UI 闭环。
 
 **在做什么**
 
