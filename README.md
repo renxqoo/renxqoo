@@ -13,10 +13,4 @@
 
 `TypeScript` `React 18/19` `Next.js 15` `Node.js` `Bun` `Vite / Rollup` `Babel AST` `Vitest` `Electron` `React Native / Expo`
 
-**做过的事**
-
-- 带 3 人小组从 0 到 1 交付跨境支付 SaaS 前端（11 万行 / 36 模块 / 115 路由），覆盖支付、外汇、清结算、多币种、KYC、对账、SWIFT 报文
-- 自研平台底座（CLI + 8 个 Vite 插件 / 13 个包 / 1.28 万行源码 + 2,646 行测试），把路由、状态、i18n、权限、分包抽成插件，复用至 5+ 项目
-- 编译期权限治理：`data-access` 声明式语法 → Babel AST 重写 → 自定义 JSX Runtime 渲染拦截，全站落地 131 处
-
-📍 杭州 · 开放 **AI 应用 / 前端架构 / 支付金融** 方向机会
+📍 杭州 
